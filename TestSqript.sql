@@ -1,3 +1,4 @@
+-- create
 CREATE TABLE Categories (
   categoryId int,
   name varchar(15)
